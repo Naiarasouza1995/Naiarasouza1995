@@ -1,5 +1,5 @@
-estudante de Front end 
-estudante de ingles a 1 ano 
+estudante de Front end 📝  
+estudante de ingles a 1 ano ♀
 não fique somente nas promessas coloque os códigos em pratica
 
 <!---
