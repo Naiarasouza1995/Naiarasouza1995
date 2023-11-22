@@ -1,8 +1,10 @@
 Olá! Eu sou a Naiara Souza
  
  Estudante de Front end 📝     
-Estudante de ingles a 1 ano  🕵️‍♀️
-Não fique somente nas promessas coloque os códigos em pratica 
+Estudante de ingles a 1 ano
+Facilitadora técnica na escola vai na web
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="naiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
