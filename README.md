@@ -2,7 +2,7 @@ Olá! Eu sou a Naiara Souza
  
  Estudante de Front end 📝     
 Estudante de ingles a 1 ano
-Facilitadora técnica na escola vai na web
+
 
 
 <div style="display: inline_block"><br>
